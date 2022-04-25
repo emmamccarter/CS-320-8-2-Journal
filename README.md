@@ -1,1 +1,2 @@
 # CS-320-8-2-Journal
+I can ensure my code, progam, or software is functional and secure by performaing software automation, as well as following security measures. Making sure I check my work thoroughly is highly important. I can interpret user needs by reviewing the user requirments because they are the framework of any project. I can make sure tey are incorporated in my program by having a checklist of all functions. This goes with software design as well, to make sure it is executed, I will always follow the user requirements.
